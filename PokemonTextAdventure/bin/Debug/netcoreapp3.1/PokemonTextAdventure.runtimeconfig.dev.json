@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/raycortinas/.dotnet/store/|arch|/|tfm|",
+      "/Users/raycortinas/.nuget/packages"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+/Users/raycortinas/Desktop/repos/PokemonTextAdventureApp/PokemonTextAdventure/bin/Debug/netcoreapp3.1/PokemonTextAdventure.deps.json
+/Users/raycortinas/Desktop/repos/PokemonTextAdventureApp/PokemonTextAdventure/bin/Debug/netcoreapp3.1/PokemonTextAdventure.runtimeconfig.json
+/Users/raycortinas/Desktop/repos/PokemonTextAdventureApp/PokemonTextAdventure/bin/Debug/netcoreapp3.1/PokemonTextAdventure.runtimeconfig.dev.json
+/Users/raycortinas/Desktop/repos/PokemonTextAdventureApp/PokemonTextAdventure/bin/Debug/netcoreapp3.1/PokemonTextAdventure.dll
+/Users/raycortinas/Desktop/repos/PokemonTextAdventureApp/PokemonTextAdventure/bin/Debug/netcoreapp3.1/PokemonTextAdventure.pdb
+/Users/raycortinas/Desktop/repos/PokemonTextAdventureApp/PokemonTextAdventure/obj/Debug/netcoreapp3.1/PokemonTextAdventure.csprojAssemblyReference.cache
+/Users/raycortinas/Desktop/repos/PokemonTextAdventureApp/PokemonTextAdventure/obj/Debug/netcoreapp3.1/PokemonTextAdventure.AssemblyInfoInputs.cache
+/Users/raycortinas/Desktop/repos/PokemonTextAdventureApp/PokemonTextAdventure/obj/Debug/netcoreapp3.1/PokemonTextAdventure.AssemblyInfo.cs
+/Users/raycortinas/Desktop/repos/PokemonTextAdventureApp/PokemonTextAdventure/obj/Debug/netcoreapp3.1/PokemonTextAdventure.csproj.CoreCompileInputs.cache
+/Users/raycortinas/Desktop/repos/PokemonTextAdventureApp/PokemonTextAdventure/obj/Debug/netcoreapp3.1/PokemonTextAdventure.dll
+/Users/raycortinas/Desktop/repos/PokemonTextAdventureApp/PokemonTextAdventure/obj/Debug/netcoreapp3.1/PokemonTextAdventure.pdb
+/Users/raycortinas/Desktop/repos/PokemonTextAdventureApp/PokemonTextAdventure/obj/Debug/netcoreapp3.1/PokemonTextAdventure.genruntimeconfig.cache
