@@ -12,7 +12,7 @@ namespace PokemonTextAdventure
             var choice = Console.ReadLine();
             while (true)
             {
-                if (choice.ToLower() == "no")   //maybe I need to change this to if while?? //how to git?
+                if (choice.ToLower() == "no")   
                 {
                     Console.WriteLine($"I'm really sorry to hear that {username}, I hope you have a great day.");
                     break;
@@ -29,14 +29,17 @@ namespace PokemonTextAdventure
                         {
                             while (true)
                             {
-                                Console.WriteLine(/*info about pokeomon, then is this the one you want?*/);
+                                Console.WriteLine("Bulbasaur is a grass type Pokemon, its weakness is fire and can learn razor leaf, vine whip, and poison powder. is this the " +
+                                    "Pokemon you would like to make your new partner?");
                                 var accept1 = Console.ReadLine();
                                 if (accept1.ToLower() == "yes")
                                 {
-                                    Console.WriteLine("COngratulations");
+                                    Console.WriteLine("That's awesome!! I am sure you are excited for your new journey! " +
+                                        "Good Luck!");
+                                    break;
                                 }
                                 else
-                                {
+                                { 
                                     break;
                                 }
                             }
@@ -44,6 +47,37 @@ namespace PokemonTextAdventure
                         else if (pokemon.ToLower() == "charmander")
                             while (true)
                             {
+                                Console.WriteLine("Charmander is a fire type Pokemon, its weakness is water and can learn ember, slash, and flamethrower. is this the " +
+                              "Pokemon you would like to make your new partner?");
+                                var accept1 = Console.ReadLine();
+                                if (accept1.ToLower() == "yes")
+                                {
+                                    Console.WriteLine("That's awesome!! I am sure you are excited for your new journey! " +
+                                        "Good Luck!");
+                                    break;
+                                }
+                                else
+                                {
+                                    break;
+                                }
+
+                            }
+                        else if (pokemon.ToLower() == "squirtle")
+                            while (true)
+                            {
+                                Console.WriteLine("Squirtle is a Water type Pokemon, its weakness is Electricity and can learn water gun, surf, and slam. is this the " +
+                              "Pokemon you would like to make your new partner?");
+                                var accept1 = Console.ReadLine();
+                                if (accept1.ToLower() == "yes")
+                                {
+                                    Console.WriteLine("That's awesome!! I am sure you are excited for your new journey! " +
+                                        "Good Luck!");
+                                    break;
+                                }
+                                else
+                                {
+                                    break;
+                                }  //I need to figure out how to connect if the player wants to checkout the other pokemon before a decision.
 
                             }
                     }
