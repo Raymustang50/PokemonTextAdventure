@@ -1,7 +1,7 @@
 ﻿<Properties StartupConfiguration="{06E5A7F1-2A3A-4516-B8A8-684FCB35B655}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="PokemonTextAdventure/Program.cs">
     <Files>
-      <File FileName="PokemonTextAdventure/Program.cs" Line="13" Column="102" />
+      <File FileName="PokemonTextAdventure/Program.cs" Line="80" Column="142" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -9,19 +9,6 @@
           <Node name="PokemonTextAdventureApp" expanded="True">
             <Node name="PokemonTextAdventure" expanded="True">
               <Node name="Program.cs" selected="True" />
-            </Node>
-          </Node>
-        </State>
-      </Pad>
-      <Pad Id="MonoDevelop.UnitTesting.TestPad">
-        <State name="__root__">
-          <Node name="ChallengesWithTestsMark8" expanded="True">
-            <Node name="ChallengesWithTestsMark8.Tests" expanded="True">
-              <Node name="ChallengesWithTestsMark8.Tests" expanded="True">
-                <Node name="ChallengesSet02Tests" expanded="True">
-                  <Node name="IsNumberOdd(number: 6, expected: False)" selected="True" />
-                </Node>
-              </Node>
             </Node>
           </Node>
         </State>
